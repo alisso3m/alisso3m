@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil de GitHub!
 ## Sobre mim
 
-Formado em Análise e Desenvolvimento de Sistemas, sempre tive uma paixão profunda por tecnologia. Iniciei minha carreira como Técnico em Informática, onde desenvolvi habilidades avançadas para solucionar uma ampla gama de problemas técnicos. Com o passar do tempo, meu interesse se voltou para a área de dados, o que me levou a atuar como DBA SQL Server. Essa transição me permitiu conquistar certificações relevantes e construir uma base sólida em bancos de dados.
+Sempre tive uma paixão profunda por tecnologia. Iniciei minha carreira como Técnico em Informática, onde desenvolvi habilidades avançadas para solucionar uma ampla gama de problemas técnicos. Com o passar do tempo, meu interesse se voltou para a área de dados, o que me levou a atuar como DBA SQL Server. Essa transição me permitiu conquistar certificações relevantes e construir uma base sólida em bancos de dados.
 
 Hoje, atuo como Engenheiro e Analista de Dados, aplicando meu conhecimento em ferramentas como Python, Data Factory, SQL, Power BI, entre outras. Minha jornada tem sido marcada pelo constante aprendizado e pela busca incessante de entregar soluções de alta qualidade que gerem valor e eficiência.
 ## 🌐 Redes Sociais e Contatos
